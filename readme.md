@@ -1,1 +1,1 @@
-Olá, essa é a 1º versão do nosso app.
+Olá, essa é a SEGUNDA versão do nosso app.
